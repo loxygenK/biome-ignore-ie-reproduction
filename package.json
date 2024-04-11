@@ -1,0 +1,7 @@
+{
+  "name": "biome-ignore-ie-reproduction",
+  "license": "ISC",
+  "devDependencies": {
+    "@biomejs/biome": "^1.6.4"
+  }
+}
